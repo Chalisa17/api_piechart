@@ -1,0 +1,6 @@
+framework module Pods_SwiftyStats {
+  umbrella header "Pods-SwiftyStats-umbrella.h"
+
+  export *
+  module * { export * }
+}
